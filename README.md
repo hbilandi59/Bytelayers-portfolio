@@ -73,9 +73,9 @@ npm run dev
 
 ### The application will be running on http://localhost:3000.
 
-## How to Contribute
+### How to Contribute
 
-### We welcome contributions! If you would like to help improve this project, please follow these steps:
+## We welcome contributions! If you would like to help improve this project, please follow these steps:
 
 - Fork the repository.
 - Create a new branch (git checkout -b feature-name).
